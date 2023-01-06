@@ -4,6 +4,10 @@ Student Age - 20 Years
 
 Students Email-  adityajadhav07@gmail.coms
 
+<<<<<<< HEAD
 students subjects- Math
 		   English
 		   Science
+=======
+Students Roll No. 67
+>>>>>>> 6bafa3fa2c19507f6830d9196a0dbf6c959bff83
