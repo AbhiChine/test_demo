@@ -3,3 +3,7 @@ Student Name - Aditya Jadhav
 Student Age - 20 Years
 
 Students Email-  adityajadhav07@gmail.coms
+
+students subjects- Math
+		   English
+		   Science
